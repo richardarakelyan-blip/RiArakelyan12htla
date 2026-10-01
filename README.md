@@ -1,4 +1,4 @@
-<p> Hi I'm Richard </p>
+
 <p>
   🇦🇲 [Yerevan,Armenia] 🇦🇲&nbsp;•&nbsp; 🕒 [GMT+4] &nbsp;•&nbsp; 🗣️ [Armenia and English]
 </p>
